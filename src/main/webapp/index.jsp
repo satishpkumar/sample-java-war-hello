@@ -1,9 +1,9 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>Java Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations! Kiran</h1>
+<h1>Congratulations! Nikhil</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
