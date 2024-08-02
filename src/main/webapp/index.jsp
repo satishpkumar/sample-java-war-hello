@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Java Sample App version-2: success!</title>
+    <title>Java Sample App version: success!</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulations! Nikhil </h1>
